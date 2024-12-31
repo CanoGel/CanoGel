@@ -1,4 +1,10 @@
-# 👋 Hello, World! I'm [CanoGel] 🚀
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=25&duration=2000&pause=1500&color=BFCDE0&center=true&vCenter=true&width=435&lines=Hi%2C+I%C2%B4m+Cano+Gel+;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</div>
+
+
 
 ![Header](https://avatars.githubusercontent.com/u/190362716?v=4) <!-- Replace with a custom header image if you have one -->
 
