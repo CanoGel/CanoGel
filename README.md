@@ -1,9 +1,9 @@
-# 👋 Hello, World! I'm [Your Name] 🚀
+# 👋 Hello, World! I'm [CanoGel] 🚀
 
-![Header](https://res.cloudinary.com/demo/image/upload/v1612246788/github-profile-header_y8vpny.png) <!-- Replace with a custom header image if you have one -->
+![Header](https://avatars.githubusercontent.com/u/190362716?v=4) <!-- Replace with a custom header image if you have one -->
 
 ## 🌟 About Me  
-- 🎓 **IT Student** | Currently in **Semester 5**  
+- 🎓 **IT Student** | Currently in **Full-Stuck**  
 - 👨‍💻 **Full-Stack Developer** passionate about creating impactful digital experiences.  
 - 🌱 Learning new technologies every day to sharpen my skills.  
 - 💡 Exploring **AI, Blockchain,** and **Cloud Technologies.**  
@@ -25,24 +25,24 @@
 
 | **Name**         | **Description**                                                | **Demo**               |
 |-------------------|----------------------------------------------------------------|------------------------|
-| **[Project 1](https://github.com/yourusername/project1)** | A project that solves XYZ problems. | [Live Demo](https://project1demo.com) |
-| **[Project 2](https://github.com/yourusername/project2)** | An app for managing ABC workflows.  | [Live Demo](https://project2demo.com) |
+| **[Project 1](https://github.com/CanoGel/Daily-Web)** | A project that solves XYZ problems. | [Live Demo](https://canogel.github.io/Daily-Web/) |
+| **[Project 2](https://github.com/CanoGel/E-learning)** | An app for managing ABC workflows.  | [Live Demo](https://canogel.github.io/E-learning/) |
 
 ---
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanoGel&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanoGel&layout=compact&theme=radical)  
 
 ---
 
 ## 🌐 Connect with Me  
 
-- 🌍 [Portfolio](https://yourportfolio.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 🐦 [Twitter](https://twitter.com/yourusername)  
-- 📧 [Email](mailto:your-email@example.com)  
+- 🌍 [Portfolio](https://github.com/CanoGel)  
+- 💼 [LinkedIn](https://linkedin.com/in/ahmadissefarah)  
+- 🐦 [Facebook](https://www.facebook.com/ahmad.desin?mibextid=ZbWKwL)  
+- 📧 [Email](mailto:ahmadisse23@gmail.com)  
 
 ---
 
